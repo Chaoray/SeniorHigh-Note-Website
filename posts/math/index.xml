@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>數學 on 高中筆記整理</title>
-    <link>https://chaoray.github.io/posts/math/</link>
+    <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/</link>
     <description>Recent content in 數學 on 高中筆記整理</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 27 Aug 2022 13:34:42 +0800</lastBuildDate><atom:link href="https://chaoray.github.io/posts/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Aug 2022 13:34:42 +0800</lastBuildDate><atom:link href="https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>數學L1</title>
-      <link>https://chaoray.github.io/posts/math/l1/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l1/</link>
       <pubDate>Sun, 30 Oct 2022 12:53:09 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/math/l1/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l1/</guid>
       <description>*實數 *乘法公式 *根號</description>
       <content:encoded><![CDATA[<h1 id="第一課-大綱">第一課 大綱</h1>
 <blockquote>
@@ -332,10 +332,10 @@
     
     <item>
       <title>數學L5</title>
-      <link>https://chaoray.github.io/posts/math/l5/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l5/</link>
       <pubDate>Wed, 02 Nov 2022 21:43:12 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/math/l5/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l5/</guid>
       <description>*斜率 *直線方程式 *二元一次不等式</description>
       <content:encoded><![CDATA[<h1 id="第五課-大綱">第五課 大綱</h1>
 <blockquote>
@@ -487,10 +487,10 @@ $x$座標位移$h$、$y$座標位移$k$</p>
     
     <item>
       <title>數學L6</title>
-      <link>https://chaoray.github.io/posts/math/l6/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l6/</link>
       <pubDate>Sat, 12 Nov 2022 22:59:22 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/math/l6/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l6/</guid>
       <description>*圓</description>
       <content:encoded><![CDATA[<h1 id="第六課-大綱">第六課 大綱</h1>
 <blockquote>
@@ -688,10 +688,10 @@ $=&gt; (x_1 - h)^2 + {y_1}^2 = (x_2 - h)^2 + {y_2}^2$<br>
     
     <item>
       <title>數學L7</title>
-      <link>https://chaoray.github.io/posts/math/l7/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l7/</link>
       <pubDate>Sun, 20 Nov 2022 16:17:10 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/math/l7/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l7/</guid>
       <description>*切線</description>
       <content:encoded><![CDATA[<h1 id="第七課-大綱">第七課 大綱</h1>
 <blockquote>
@@ -848,10 +848,10 @@ $\frac{|mh - k - mx_1 + y_1|}{\sqrt{m^2 + (-1)^2}} = r$</p>
     
     <item>
       <title>數學L8</title>
-      <link>https://chaoray.github.io/posts/math/l8/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l8/</link>
       <pubDate>Sun, 27 Nov 2022 10:47:31 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/math/l8/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l8/</guid>
       <description>*多項式</description>
       <content:encoded><![CDATA[<h1 id="第八課-大綱">第八課 大綱</h1>
 <blockquote>
@@ -937,10 +937,10 @@ $f(x)$為被除式，$g(x)$為除式，$q(x)$為商式，$r(x)$為餘式</p>
     
     <item>
       <title>數學L9</title>
-      <link>https://chaoray.github.io/posts/math/l9/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l9/</link>
       <pubDate>Wed, 28 Dec 2022 22:06:04 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/math/l9/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l9/</guid>
       <description>*一次函數 *二次函數</description>
       <content:encoded><![CDATA[<h1 id="第九課-大綱">第九課 大綱</h1>
 <blockquote>
@@ -1057,10 +1057,10 @@ $y = ax^2 + bx + c$<br>
     
     <item>
       <title>數學L10</title>
-      <link>https://chaoray.github.io/posts/math/l10/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l10/</link>
       <pubDate>Wed, 28 Dec 2022 22:16:04 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/math/l10/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l10/</guid>
       <description>*三次函數</description>
       <content:encoded><![CDATA[<h1 id="第十課-大綱">第十課 大綱</h1>
 <blockquote>

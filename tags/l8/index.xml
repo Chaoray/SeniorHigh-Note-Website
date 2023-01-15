@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>L8 on 高中筆記整理</title>
-    <link>https://chaoray.github.io/tags/l8/</link>
+    <link>https://chaoray.github.io/SeniorHigh-Note-Website/tags/l8/</link>
     <description>Recent content in L8 on 高中筆記整理</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 18 Dec 2022 12:47:24 +0800</lastBuildDate><atom:link href="https://chaoray.github.io/tags/l8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 12:47:24 +0800</lastBuildDate><atom:link href="https://chaoray.github.io/SeniorHigh-Note-Website/tags/l8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>數學L8</title>
-      <link>https://chaoray.github.io/posts/math/l8/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l8/</link>
       <pubDate>Sun, 27 Nov 2022 10:47:31 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/math/l8/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/l8/</guid>
       <description>*多項式</description>
       <content:encoded><![CDATA[<h1 id="第八課-大綱">第八課 大綱</h1>
 <blockquote>
@@ -98,10 +98,10 @@ $f(x)$為被除式，$g(x)$為除式，$q(x)$為商式，$r(x)$為餘式</p>
     
     <item>
       <title>國文L8</title>
-      <link>https://chaoray.github.io/posts/chinese/l8/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/chinese/l8/</link>
       <pubDate>Sun, 20 Nov 2022 12:31:51 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/chinese/l8/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/chinese/l8/</guid>
       <description>*孔乙己</description>
       <content:encoded><![CDATA[<h1 id="題解">題解</h1>
 <ul>
@@ -190,10 +190,10 @@ $f(x)$為被除式，$g(x)$為除式，$q(x)$為商式，$r(x)$為餘式</p>
     
     <item>
       <title>英文L8</title>
-      <link>https://chaoray.github.io/posts/english/l8/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/english/l8/</link>
       <pubDate>Sun, 18 Dec 2022 12:47:24 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/english/l8/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/english/l8/</guid>
       <description>*單字 *片語 *文法</description>
       <content:encoded><![CDATA[<h1 id="l8-大綱">L8 大綱</h1>
 <p>英文哪來的大綱啦(老梗了啦)</p>

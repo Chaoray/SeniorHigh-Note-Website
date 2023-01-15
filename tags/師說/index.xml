@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>師說 on 高中筆記整理</title>
-    <link>https://chaoray.github.io/tags/%E5%B8%AB%E8%AA%AA/</link>
+    <link>https://chaoray.github.io/SeniorHigh-Note-Website/tags/%E5%B8%AB%E8%AA%AA/</link>
     <description>Recent content in 師說 on 高中筆記整理</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 04 Nov 2022 21:19:47 +0800</lastBuildDate><atom:link href="https://chaoray.github.io/tags/%E5%B8%AB%E8%AA%AA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Nov 2022 21:19:47 +0800</lastBuildDate><atom:link href="https://chaoray.github.io/SeniorHigh-Note-Website/tags/%E5%B8%AB%E8%AA%AA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>國文L5</title>
-      <link>https://chaoray.github.io/posts/chinese/l5/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/chinese/l5/</link>
       <pubDate>Fri, 04 Nov 2022 21:19:47 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/chinese/l5/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/chinese/l5/</guid>
       <description>*師說</description>
       <content:encoded><![CDATA[<p>國文筆記食用辦法：<br>
 <red>紅色</red>: 課文註解<br>

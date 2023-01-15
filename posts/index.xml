@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>總覽 on 高中筆記整理</title>
-    <link>https://chaoray.github.io/posts/</link>
+    <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/</link>
     <description>Recent content in 總覽 on 高中筆記整理</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 28 Dec 2022 22:58:48 +0800</lastBuildDate><atom:link href="https://chaoray.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Dec 2022 22:58:48 +0800</lastBuildDate><atom:link href="https://chaoray.github.io/SeniorHigh-Note-Website/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>國文</title>
-      <link>https://chaoray.github.io/posts/chinese/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/chinese/</link>
       <pubDate>Sat, 27 Aug 2022 13:34:31 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/chinese/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/chinese/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>英文</title>
-      <link>https://chaoray.github.io/posts/english/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/english/</link>
       <pubDate>Sat, 27 Aug 2022 13:34:38 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/english/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/english/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>數學</title>
-      <link>https://chaoray.github.io/posts/math/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/</link>
       <pubDate>Sat, 27 Aug 2022 13:34:42 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/math/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/math/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>物理</title>
-      <link>https://chaoray.github.io/posts/physics/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/physics/</link>
       <pubDate>Sun, 28 Aug 2022 21:27:52 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/physics/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/physics/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>地科</title>
-      <link>https://chaoray.github.io/posts/earth/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/earth/</link>
       <pubDate>Sat, 01 Oct 2022 20:29:51 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/earth/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/earth/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>歷史</title>
-      <link>https://chaoray.github.io/posts/history/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/history/</link>
       <pubDate>Sun, 28 Aug 2022 21:27:15 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/history/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/history/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>公民</title>
-      <link>https://chaoray.github.io/posts/civics/</link>
+      <link>https://chaoray.github.io/SeniorHigh-Note-Website/posts/civics/</link>
       <pubDate>Sun, 28 Aug 2022 21:26:59 +0800</pubDate>
       
-      <guid>https://chaoray.github.io/posts/civics/</guid>
+      <guid>https://chaoray.github.io/SeniorHigh-Note-Website/posts/civics/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
