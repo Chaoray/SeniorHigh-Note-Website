@@ -4,7 +4,7 @@
 
 ## Wedsite
 
->[高中筆記整理](https://chaoray.github.io/ "前往高中筆記整理")
+>[高中筆記整理](https://chaoray.github.io/SeniorHigh-Note-Website "前往高中筆記整理")
 
 ## 最新版本
 > v4.3.27
