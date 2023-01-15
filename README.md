@@ -41,4 +41,4 @@
   
 ## License
 
-© 2022 [高中筆記整理](https://chaoray.github.io/) [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) Powered by [Hugo](https://gohugo.io/) & [PaperModX](https://github.com/reorx/hugo-PaperModX/)
+© 2022 [高中筆記整理](https://chaoray.github.io/SeniorHigh-Note-Website) [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) Powered by [Hugo](https://gohugo.io/) & [PaperModX](https://github.com/reorx/hugo-PaperModX/)
