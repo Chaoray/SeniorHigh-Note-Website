@@ -40,6 +40,36 @@ noTips: true
 </table>
 
 <timer data-deadline="1673884800000" title="三段 2023/01/17"></timer>
+<table>
+  <tr>
+    <td>國文</td>
+    <td>L8~11 + 文教4~6篇</td>
+  </tr>
+  <tr>
+    <td>英文</td>
+    <td>L7~R3</td>
+  </tr>
+  <tr>
+    <td>數學</td>
+    <td>U8~U11</td>
+  </tr>
+  <tr>
+    <td>歷史</td>
+    <td>Ch5~6</td>
+  </tr>
+  <tr>
+    <td>公民</td>
+    <td>Ch5~6</td>
+  </tr>
+  <tr>
+    <td>地科</td>
+    <td>5-3~7-3</td>
+  </tr>
+  <tr>
+    <td>物理</td>
+    <td>5-1~6-3</td>
+  </tr>
+</table>
 
 <script>
 let timers = document.getElementsByTagName('timer');

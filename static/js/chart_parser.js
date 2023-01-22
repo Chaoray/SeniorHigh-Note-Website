@@ -54,7 +54,6 @@ class Data2ChartConfig {
                 }
             }, data.data);
         });
-        console.log(data);
     }
 
     bar(config) {
