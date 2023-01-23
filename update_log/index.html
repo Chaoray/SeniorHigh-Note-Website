@@ -7,7 +7,13 @@
 <meta name="robots" content="index, follow">
 <title>更新日誌 | 高中筆記整理</title>
 <meta name="keywords" content="">
-<meta name="description" content="2023/1/22 v4.3.28 久違的更新 把三段考試範圍給補上了 另外圖片無法顯示，查了半天發現是前面的https://要刪掉
+<meta name="description" content="2023/1/22 v4.3.28 久違的更新 把三段考試範圍給補上了
+另外歷史的筆記排序也給修好了
+圖片無法顯示，原因大概是hugo他不吃有包含路徑的BaseUrl
+所以整個網站的檔案的路徑就不知道去哪裡了
+加上canonifyUrl: true之後更怪，雖然圖片是能顯示了
+不過右上角navbar menu部分的路徑全部跑掉，我只好直接去魔改theme
+我相信修完有點小bug是沒有人會注意到的 (x
 #祝大家新年快樂 #現在11:48分
 2022/12/19 v4.3.27 準時完成任務的人最乖了 擴增英文L8筆記
 #所以我說負責國文和歷史筆記的人呢
@@ -21,8 +27,7 @@
 2022/11/26 v4.3.23 Our civer is going to elplode 我們的肺快爆了 新增國文論語筆記、 英文R2筆記、 地科L5筆記 擴增國文L7筆記、 歷史L4筆記、 公民L4筆記、 物理L4筆記、 地科L4筆記 新增圓餅圖、折線圖、長條圖等功能
 #翻譯錯誤是個梗
 2022/11/25 v4.3.22 超後部屬 新增公民L4筆記 擴增國文L7筆記、 歷史L4筆記
-#再度到達12點 #再度到達12點 #再度到達12點&hellip;. #再度&hellip; #爆肝 #才怪，健康檢查還能撐一年
-2022/11/20 v4.3.21 超前部屬 新增國文L7筆記、 英文L6筆記、 空英二段筆記、 數學L7筆記、 歷史L4筆記 新增心智圖寫法 新增免費勞工 刪除二抽資訊 新增二段範圍">
+#再度到達12點 #再度到達12點 #再度到達12點&hellip;. #再度&hellip; #爆肝 #才怪，健康檢查還能撐一年">
 <meta name="author" content="郭凱明, 姜丞恩, 趙文睿">
 <link rel="canonical" href="https://chaoray.github.io/SeniorHigh-Note-Website/update_log/">
 <link crossorigin="anonymous" href="https://chaoray.github.io/SeniorHigh-Note-Website/assets/css/stylesheet.min.29ee95d182a51747e1370e1d2a41379e2a1bb7edc3c5bc32275c305e601b3fe1.css" integrity="sha256-Ke6V0YKlF0fhNw4dKkE3niobt&#43;3DxbwyJ1wwXmAbP&#43;E=" rel="preload stylesheet" as="style">
@@ -30,7 +35,13 @@
 <link rel="apple-touch-icon" href="https://chaoray.github.io/SeniorHigh-Note-Website/apple-touch-icon.png">
 
 <meta name="twitter:title" content="更新日誌 | 高中筆記整理" />
-<meta name="twitter:description" content="2023/1/22 v4.3.28 久違的更新 把三段考試範圍給補上了 另外圖片無法顯示，查了半天發現是前面的https://要刪掉
+<meta name="twitter:description" content="2023/1/22 v4.3.28 久違的更新 把三段考試範圍給補上了
+另外歷史的筆記排序也給修好了
+圖片無法顯示，原因大概是hugo他不吃有包含路徑的BaseUrl
+所以整個網站的檔案的路徑就不知道去哪裡了
+加上canonifyUrl: true之後更怪，雖然圖片是能顯示了
+不過右上角navbar menu部分的路徑全部跑掉，我只好直接去魔改theme
+我相信修完有點小bug是沒有人會注意到的 (x
 #祝大家新年快樂 #現在11:48分
 2022/12/19 v4.3.27 準時完成任務的人最乖了 擴增英文L8筆記
 #所以我說負責國文和歷史筆記的人呢
@@ -44,10 +55,15 @@
 2022/11/26 v4.3.23 Our civer is going to elplode 我們的肺快爆了 新增國文論語筆記、 英文R2筆記、 地科L5筆記 擴增國文L7筆記、 歷史L4筆記、 公民L4筆記、 物理L4筆記、 地科L4筆記 新增圓餅圖、折線圖、長條圖等功能
 #翻譯錯誤是個梗
 2022/11/25 v4.3.22 超後部屬 新增公民L4筆記 擴增國文L7筆記、 歷史L4筆記
-#再度到達12點 #再度到達12點 #再度到達12點&hellip;. #再度&hellip; #爆肝 #才怪，健康檢查還能撐一年
-2022/11/20 v4.3.21 超前部屬 新增國文L7筆記、 英文L6筆記、 空英二段筆記、 數學L7筆記、 歷史L4筆記 新增心智圖寫法 新增免費勞工 刪除二抽資訊 新增二段範圍" />
+#再度到達12點 #再度到達12點 #再度到達12點&hellip;. #再度&hellip; #爆肝 #才怪，健康檢查還能撐一年" />
 <meta property="og:title" content="更新日誌 | 高中筆記整理" />
-<meta property="og:description" content="2023/1/22 v4.3.28 久違的更新 把三段考試範圍給補上了 另外圖片無法顯示，查了半天發現是前面的https://要刪掉
+<meta property="og:description" content="2023/1/22 v4.3.28 久違的更新 把三段考試範圍給補上了
+另外歷史的筆記排序也給修好了
+圖片無法顯示，原因大概是hugo他不吃有包含路徑的BaseUrl
+所以整個網站的檔案的路徑就不知道去哪裡了
+加上canonifyUrl: true之後更怪，雖然圖片是能顯示了
+不過右上角navbar menu部分的路徑全部跑掉，我只好直接去魔改theme
+我相信修完有點小bug是沒有人會注意到的 (x
 #祝大家新年快樂 #現在11:48分
 2022/12/19 v4.3.27 準時完成任務的人最乖了 擴增英文L8筆記
 #所以我說負責國文和歷史筆記的人呢
@@ -61,8 +77,7 @@
 2022/11/26 v4.3.23 Our civer is going to elplode 我們的肺快爆了 新增國文論語筆記、 英文R2筆記、 地科L5筆記 擴增國文L7筆記、 歷史L4筆記、 公民L4筆記、 物理L4筆記、 地科L4筆記 新增圓餅圖、折線圖、長條圖等功能
 #翻譯錯誤是個梗
 2022/11/25 v4.3.22 超後部屬 新增公民L4筆記 擴增國文L7筆記、 歷史L4筆記
-#再度到達12點 #再度到達12點 #再度到達12點&hellip;. #再度&hellip; #爆肝 #才怪，健康檢查還能撐一年
-2022/11/20 v4.3.21 超前部屬 新增國文L7筆記、 英文L6筆記、 空英二段筆記、 數學L7筆記、 歷史L4筆記 新增心智圖寫法 新增免費勞工 刪除二抽資訊 新增二段範圍" />
+#再度到達12點 #再度到達12點 #再度到達12點&hellip;. #再度&hellip; #爆肝 #才怪，健康檢查還能撐一年" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://chaoray.github.io/SeniorHigh-Note-Website/update_log/" />
 <meta property="article:section" content="" />
@@ -90,11 +105,11 @@
   "@type": "BlogPosting",
   "headline": "更新日誌 | 高中筆記整理",
   "name": "更新日誌",
-  "description": "2023/1/22 v4.3.28 久違的更新 把三段考試範圍給補上了 另外圖片無法顯示，查了半天發現是前面的https://要刪掉\n#祝大家新年快樂 #現在11:48分\n2022/12/19 v4.3.27 準時完成任務的人最乖了 擴增英文L8筆記\n#所以我說負責國文和歷史筆記的人呢\n2022/12/18 v4.3.26 我們需要導盲犬 久違的更新\n新增英文L7~8筆記\n#大家都成為忙人\n2022/12/11 v4.3.25 weight: 43250 筆記終於會排隊了\n#其實早就能排了只是某位大佬太懶\n2022/11/27 v4.3.24 此更新日誌標題尚未解鎖 新增數學L8筆記 擴增數學L7筆記、 地科L5筆記 讓折線圖的線能彎曲\n#我知道你們都在認真聽微積分\n2022/11/26 v4.3.23 Our civer is going to elplode 我們的肺快爆了 新增國文論語筆記、 英文R2筆記、 地科L5筆記 擴增國文L7筆記、 歷史L4筆記、 公民L4筆記、 物理L4筆記、 地科L4筆記 新增圓餅圖、折線圖、長條圖等功能\n#翻譯錯誤是個梗\n2022/11/25 v4.3.22 超後部屬 新增公民L4筆記 擴增國文L7筆記、 歷史L4筆記\n#再度到達12點 #再度到達12點 #再度到達12點\u0026hellip;. #再度\u0026hellip; #爆肝 #才怪，健康檢查還能撐一年\n2022/11/20 v4.3.21 超前部屬 新增國文L7筆記、 英文L6筆記、 空英二段筆記、 數學L7筆記、 歷史L4筆記 新增心智圖寫法 新增免費勞工 刪除二抽資訊 新增二段範圍",
+  "description": "2023/1/22 v4.3.28 久違的更新 把三段考試範圍給補上了\n另外歷史的筆記排序也給修好了\n圖片無法顯示，原因大概是hugo他不吃有包含路徑的BaseUrl\n所以整個網站的檔案的路徑就不知道去哪裡了\n加上canonifyUrl: true之後更怪，雖然圖片是能顯示了\n不過右上角navbar menu部分的路徑全部跑掉，我只好直接去魔改theme\n我相信修完有點小bug是沒有人會注意到的 (x\n#祝大家新年快樂 #現在11:48分\n2022/12/19 v4.3.27 準時完成任務的人最乖了 擴增英文L8筆記\n#所以我說負責國文和歷史筆記的人呢\n2022/12/18 v4.3.26 我們需要導盲犬 久違的更新\n新增英文L7~8筆記\n#大家都成為忙人\n2022/12/11 v4.3.25 weight: 43250 筆記終於會排隊了\n#其實早就能排了只是某位大佬太懶\n2022/11/27 v4.3.24 此更新日誌標題尚未解鎖 新增數學L8筆記 擴增數學L7筆記、 地科L5筆記 讓折線圖的線能彎曲\n#我知道你們都在認真聽微積分\n2022/11/26 v4.3.23 Our civer is going to elplode 我們的肺快爆了 新增國文論語筆記、 英文R2筆記、 地科L5筆記 擴增國文L7筆記、 歷史L4筆記、 公民L4筆記、 物理L4筆記、 地科L4筆記 新增圓餅圖、折線圖、長條圖等功能\n#翻譯錯誤是個梗\n2022/11/25 v4.3.22 超後部屬 新增公民L4筆記 擴增國文L7筆記、 歷史L4筆記\n#再度到達12點 #再度到達12點 #再度到達12點\u0026hellip;. #再度\u0026hellip; #爆肝 #才怪，健康檢查還能撐一年",
   "keywords": [
     
   ],
-  "wordCount" : "310",
+  "wordCount" : "318",
   "inLanguage": "zh-tw",
   "datePublished": "2022-10-02T21:43:39+08:00",
   "dateModified": "2022-10-02T21:43:39+08:00",
@@ -380,8 +395,13 @@ function toggleThemeListener() {
 </div>
 
   <div class="post-content"><h2 id="2023122--v4328-久違的更新">2023/1/22  v4.3.28 久違的更新<a hidden class="anchor" aria-hidden="true" href="#2023122--v4328-久違的更新">¶</a></h2>
-<p>把三段考試範圍給補上了
-另外圖片無法顯示，查了半天發現是前面的<code>https://</code>要刪掉</p>
+<p>把三段考試範圍給補上了<br>
+另外歷史的筆記排序也給修好了<br>
+圖片無法顯示，原因大概是hugo他不吃有包含路徑的BaseUrl<br>
+所以整個網站的檔案的路徑就不知道去哪裡了<br>
+加上<code>canonifyUrl: true</code>之後更怪，雖然圖片是能顯示了<br>
+不過右上角navbar menu部分的路徑全部跑掉，我只好直接去魔改theme<br>
+我相信修完有點小bug是沒有人會注意到的 (x</p>
 <p><a>#祝大家新年快樂</a>
 <a>#現在11:48分</a></p>
 <h2 id="20221219--v4327-準時完成任務的人最乖了">2022/12/19  v4.3.27 準時完成任務的人最乖了<a hidden class="anchor" aria-hidden="true" href="#20221219--v4327-準時完成任務的人最乖了">¶</a></h2>
@@ -601,7 +621,7 @@ function toggleThemeListener() {
     </main>
     
 <footer class="footer">
-  <span>&copy; 2023 <a href="https://chaoray.github.io/SeniorHigh-Note-Website">高中筆記整理</a>v4.3.27</span><span style="display: inline-block; margin-left: 1em;">
+  <span>&copy; 2023 <a href="https://chaoray.github.io/SeniorHigh-Note-Website">高中筆記整理</a>v4.3.28</span><span style="display: inline-block; margin-left: 1em;">
     <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>
   </span>
   <span style="display: inline-block; margin-left: 1em;">
