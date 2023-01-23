@@ -82,7 +82,7 @@ outputs:
 
 params:
   author: ["郭凱明", "姜丞恩", "趙文睿"]
-  version: "v4.3.27"
+  version: "v4.3.28"
 
   defaultTheme: light
   disableThemeToggle: false
